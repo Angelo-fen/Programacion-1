@@ -6,3 +6,8 @@ programa se encuentra en su propia carpeta.
 ## Programas incluidos
 ### Blackjack_1.0
 Juego de Blackjack donde el jugador compite contra el dealer(la maquina), se puede pedir cartas, plantarse y reiniciar la partida.
+### Gato
+Juego de el gato en python.
+### Factorial
+Calculador de un numero factorial en python.
+
